@@ -23,7 +23,7 @@
 I'm an entry-level front-end developer taking my first steps in an endless world of programming.
 - 🌱 Studing front-end development from the scratch
 - 🔭 Currently working on a training project on React.js
-- ⚡ Reading tech specs and literature on various front-end technologies
+- ⚡ Studing tech specs and literature on various front-end technologies and tools
 
 
 ### :briefcase: Current Tool Stack :
