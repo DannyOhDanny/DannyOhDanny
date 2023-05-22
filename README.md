@@ -15,7 +15,6 @@
   <div>
 <img src="https://komarev.com/ghpvc/?username=DannyOhDanny&style=flat-square&color=blue" alt=""/>
   </div>
-  <img  src="https://media.giphy.com/media/yIomjPheQvvbiF9v7A/giphy.gif" width="200"/>
 </div>
 
 ### :woman_technologist: About Me :
