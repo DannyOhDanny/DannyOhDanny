@@ -24,8 +24,8 @@ I'm an entry-level front-end developer taking my first steps in an endless world
 - :card_index_dividers: Already have 4 projects on HTML5, CSS3, JS, React, Express in stock.
 - 🔭 My web development tools' stack is: Git, GitHub, NodeJS, npm, pm2, Chrome DevTools, webpack, object-oriented programming, BEM, responsive web design, REST API, Figma, Pixel Perfect.
 - ⚡ Studing tech specs and literature on various front-end technologies and tools.
-- 💼Soft skills: teamwork experience, experience in SCRUM-based projects in B2B, working on technical documnetation in Confluence, languages (Russian - native, English - fluent speaking and writing skills), technical copiwriting.
-
+- 💼 My soft skills are: teamwork experience, experience in SCRUM-based projects in B2B, working on technical documnetation in Confluence, languages (Russian - native, English - fluent speaking and writing skills), technical copiwriting.
+- 📖 Currently studing TypeScript to reqwrite my current project in this language.
 
 ### :briefcase: Current Tool Stack :
 ---
