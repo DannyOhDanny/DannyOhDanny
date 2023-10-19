@@ -21,15 +21,15 @@
 ---
 I'm an entry-level front-end developer taking my first steps in an endless world of programming.
 
-- 🌱 Studying front-end development from scratch. 
+- 👩‍🎓 Successfully completed a professional 12-month course on front-end development.
 
-- 🗂️ Already have four  full-scope projects on HTML5, CSS3, JS,ReactJS, and ExpressJS in stock.
+- 🗂️ Already have four full-scope projects on HTML5, CSS3, JS, ReactJS, and ExpressJS in stock.
 
-- 🔭 My web development tools' stack is: Git, GitHub, NodeJS, npm, pm2, Chrome DevTools, webpack, object-oriented programming, BEM, responsive web design, REST API, Figma, Pixel Perfect, unittesting (jest, supertest);
+- 🔭 My web development tools' stack is: Git, GitHub, NodeJS, npm, pm2, Chrome DevTools, webpack, object-oriented programming, BEM, responsive web design, REST API, Figma, Pixel Perfect, unit testing (jest, supertest);
 
 - ⚡ Studying tech specs and literature on various front-end technologies and tools.
 
-- 💼 My soft skills are: teamwork experience, experience in SCRUM-based projects in B2B, workingon technical documentation in Confluence, languages (Russian-native, English - fluent speaking and writing skills), technical copywriting.
+- 💼 My soft skills are: teamwork experience, experience in SCRUM-based projects in B2B, working on/with technical documentation in Confluence, languages (Russian - native, English - fluent speaking and writing skills), technical copywriting.
 
 - 📖 I am currently studying TypeScript, SCSS/SASS, and unit testing to rewrite my current project in this language and using these technologies.
 
