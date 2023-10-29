@@ -29,7 +29,7 @@ I'm an entry-level front-end developer taking my first steps in an endless world
 
 - ⚡ Studying tech specs and literature on various front-end technologies and tools.
 
-- 💼 My soft skills are: teamwork experience, teamwork experience in SCRUM/Agile-based projects in B2B, working on/with technical documentation in Confluence, languages : Russian - native, English - fluent speaking and writing skills, technical copywriting in English.
+- 💼 My soft skills are: teamwork experience in SCRUM/Agile-based projects in B2B, working on/with technical documentation in Confluence, languages (Russian - native, English - fluent speaking and writing skills), technical copywriting.
 
 - 📖 I am currently studying TypeScript, SCSS/SASS, and unit testing to rewrite my current project in named language and technologies.
 
