@@ -19,15 +19,13 @@
 
 ### :woman_technologist: About Me :
 ---
-I'm an entry-level front-end developer taking my first steps in an endless world of programming.
+I'm a junior level front-end developer taking my first steps in an endless world of programming.
 
-- 👩‍🎓 Successfully completed a professional 12-month course on front-end development.
+- 👩‍🎓 12-month experience in front-end development.
 
 - 🗂️ Already have four full-scope projects on HTML5, CSS3, JS, ReactJS, and ExpressJS in stock.
 
 - 🔭 My web development tools' stack is: Git, GitHub, NodeJS, npm, pm2, Chrome DevTools, webpack, object-oriented programming, BEM, responsive web design, REST API, Figma, Pixel Perfect, unit testing (jest, supertest);
-
-- ⚡ Studying tech specs and literature on various front-end technologies and tools.
 
 - 💼 My soft skills are: teamwork experience in SCRUM/Agile-based projects in B2B, working on/with technical documentation in Confluence, languages: Russian - native, English - fluent speaking and writing skills, technical copywriting.
 
