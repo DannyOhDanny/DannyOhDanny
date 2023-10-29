@@ -27,7 +27,7 @@ I'm a junior level front-end developer taking my first steps in an endless world
 
 - 🔭 My web development tools' stack is: Git, GitHub, NodeJS, npm, pm2, Chrome DevTools, webpack, object-oriented programming, BEM, responsive web design, REST API, Figma, Pixel Perfect, unit testing (jest, supertest);
 
-- 💼 My soft skills are: teamwork experience in SCRUM/Agile-based projects in B2B, working on/with technical documentation in Confluence, languages: Russian - native, English - fluent speaking and writing skills, technical copywriting.
+- 💼 My soft skills are: teamwork experience in SCRUM/Agile-based projects in B2B, working on technical documentation, technical copywriting (English only), languages: Russian - native, English - fluent speaking and writing skills, .
 
 - 📖 I am currently studying TypeScript, SCSS/SASS, and unit testing to rewrite my current project in named language and technologies.
 
