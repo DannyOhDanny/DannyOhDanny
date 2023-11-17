@@ -56,6 +56,8 @@ I'm a junior level front-end developer taking my first steps in an endless world
   <img src="https://img.shields.io/badge/figma-%23404d59.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
   <img src="https://img.shields.io/badge/git-%23404d59.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
   <img src="https://img.shields.io/badge/ESLint-%23404d59?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint Badge" />
+  <img src="https://img.shields.io/badge/NPM-%23404d59?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Badge" />
+
 </div>
 
 ### :bar_chart:	 My Stats :
