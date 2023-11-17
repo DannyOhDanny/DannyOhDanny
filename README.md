@@ -42,7 +42,7 @@ I'm a junior level front-end developer taking my first steps in an endless world
 </div>
 
 ### :briefcase: Backend Tool Stack :
-
+---
 <div id="backend" style="display: inline">
   <img src="https://img.shields.io/badge/node.js-%23404d59?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS Badge" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js Badge" />
@@ -51,15 +51,15 @@ I'm a junior level front-end developer taking my first steps in an endless world
 </div>
 
 ### :briefcase: General Tool Stack :
-
+---
 <div id="general" style="display: inline">
   <img src="https://img.shields.io/badge/figma-%23404d59.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
   <img src="https://img.shields.io/badge/git-%23404d59.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
   <img src="https://img.shields.io/badge/ESLint-%23404d59?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint Badge" />
 </div>
+
 ### :bar_chart:	 My Stats :
 ---
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DannyOhDanny&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyOhDanny&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
