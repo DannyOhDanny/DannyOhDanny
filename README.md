@@ -23,7 +23,7 @@ I'm a junior level frontend developer with the following stack:
 
 - 👩‍🎓 1+ year of experience in frontend development.
 
-- 🗂️ Already have four full-scope projects on HTML5, CSS3, JS, ReactJS, and ExpressJS in stock.
+- 🗂️ Already have six full-scope projects on HTML5, CSS3, JS, ReactJS, and ExpressJS in stock.
 
 - 🔭 My web development tools' stack is: Git, GitHub, NodeJS, npm, pm2, Chrome DevTools, webpack, object-oriented programming, BEM, responsive web design, REST API, Figma, Pixel Perfect, unit testing (jest, supertest);
 
