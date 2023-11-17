@@ -36,27 +36,30 @@ I'm a junior level front-end developer taking my first steps in an endless world
 <div> 
   <img src="https://img.shields.io/badge/javascript-%23404d59.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge" />
   <img src="https://img.shields.io/badge/react-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge" />
-  <img src="https://img.shields.io/badge/html5-%23404d59.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
-  <img src="https://img.shields.io/badge/css3-%23404d59.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
-  <img src="https://img.shields.io/badge/SASS-%23404d59.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS Badge" />
+  <img src="https://img.shields.io/badge/html5-%23404d59.svg?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML5 Badge" />
+  <img src="https://img.shields.io/badge/css3-%23404d59.svg?style=for-the-badge&logo=css3&logoColor=lightblue" alt="CSS3 Badge" />
+  <img src="https://img.shields.io/badge/SASS-%23404d59.svg?style=for-the-badge&logo=SASS&logoColor=hotpink" alt="SASS Badge" />
 </div>
 
 ### :briefcase: Backend Tool Stack :
 ---
 <div id="backend" style="display: inline">
-  <img src="https://img.shields.io/badge/node.js-%23404d59?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS Badge" />
+  <img src="https://img.shields.io/badge/node.js-%23404d59?style=for-the-badge&logo=node.js&logoColor=green" alt="NodeJS Badge" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js Badge" />
   <img src="https://img.shields.io/badge/MongoDB-%23404d59.svg?style=for-the-badge&logo=mongodb&logoColor=green" alt="MongoDB Badge" />
-  <img src="https://img.shields.io/badge/nginx-%23404d59.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx Badge" />		
+  <img src="https://img.shields.io/badge/nginx-%23404d59.svg?style=for-the-badge&logo=nginx&logoColor=green" alt="Nginx Badge" />		
 </div>
 
 ### :briefcase: General Tool Stack :
 ---
 <div id="general" style="display: inline">
-  <img src="https://img.shields.io/badge/figma-%23404d59.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
-  <img src="https://img.shields.io/badge/git-%23404d59.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
-  <img src="https://img.shields.io/badge/ESLint-%23404d59?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint Badge" />
-  <img src="https://img.shields.io/badge/NPM-%23404d59?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Badge" />
+  <img src="https://img.shields.io/badge/git-%23404d59.svg?style=for-the-badge&logo=git&logoColor=red" alt="Git Badge" />
+  <img src="https://img.shields.io/badge/ESLint-%23404d59?style=for-the-badge&logo=eslint&logoColor=violet" alt="ESLint Badge" />
+  <img src="https://img.shields.io/badge/NPM-%23404d59?style=for-the-badge&logo=npm&logoColor=red" alt="NPM Badge" />
+  <img src="https://img.shields.io/badge/Webpack-%23404d59?style=for-the-badge&logo=webpack&logoColor=blue" alt="webpack Badge" />
+  <img src="https://img.shields.io/badge/figma-%23404d59.svg?style=for-the-badge&logo=figma&logoColor=purple" alt="Figma Badge" />
+  <img src="https://img.shields.io/badge/vscode-%23404d59?style=for-the-badge&logo=vscode&logoColor=white" alt="VScode Badge" />
+  <img src="https://img.shields.io/badge/webstorm-%23404d59?style=for-the-badge&logo=webstorm&logoColor=lightblue" alt="Webstorm Badge" />
 
 </div>
 
