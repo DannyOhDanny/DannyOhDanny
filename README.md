@@ -19,9 +19,9 @@
 
 ### :woman_technologist: About Me :
 ---
-I'm a junior level front-end developer taking my first steps in an endless world of programming.
+I'm a junior level frontend developer with the following stack:
 
-- 👩‍🎓 12-month experience in front-end development.
+- 👩‍🎓 A 1+ year of experience in frontend development.
 
 - 🗂️ Already have four full-scope projects on HTML5, CSS3, JS, ReactJS, and ExpressJS in stock.
 
