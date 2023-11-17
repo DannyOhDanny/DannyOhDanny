@@ -34,21 +34,11 @@ I'm a junior level front-end developer taking my first steps in an endless world
 ### :briefcase: Frontend Tool Stack :
 ---
 <div> 
-  	<a href="#">
 		<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge" />
-	</a>
- <a href="#">
 		<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge" />
-	</a>
-	<a href="#">
 		<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
-	</a>
-  <a href="#">
 		<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
-	</a>
-	<a href="#">
 		<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS Badge" />
-	</a>
 </div>
 
 ### :bar_chart:	 My Stats :
