@@ -60,6 +60,8 @@ I'm a junior level front-end developer taking my first steps in an endless world
   <img src="https://img.shields.io/badge/figma-%23404d59.svg?style=for-the-badge&logo=figma&logoColor=purple" alt="Figma Badge" />
   <img src="https://img.shields.io/badge/vscode-%23404d59?style=for-the-badge&logo=vscode&logoColor=white" alt="VScode Badge" />
   <img src="https://img.shields.io/badge/webstorm-%23404d59?style=for-the-badge&logo=webstorm&logoColor=lightblue" alt="Webstorm Badge" />
+  <img src="https://img.shields.io/badge/REST API-%23404d59?style=for-the-badge&logo=restapi&logoColor=lightblue" alt="RESTAPI Badge" />
+  <img src="https://img.shields.io/badge/Confluence-%23404d59?style=for-the-badge&logo=confluence&logoColor=blue" alt="Confluence Badge" />
 
 </div>
 
