@@ -62,9 +62,9 @@ I'm a junior level frontend developer with the following stack:
   <img src="https://img.shields.io/badge/figma-%23404d59.svg?style=for-the-badge&logo=figma&logoColor=purple" alt="Figma Badge" />
   <img src="https://img.shields.io/badge/vscode-%23404d59?style=for-the-badge&logo=vscode&logoColor=white" alt="VScode Badge" />
   <img src="https://img.shields.io/badge/webstorm-%23404d59?style=for-the-badge&logo=webstorm&logoColor=lightblue" alt="Webstorm Badge" />
-  <img src="https://img.shields.io/badge/REST API-%23404d59?style=for-the-badge&logo=restapi&logoColor=lightblue" alt="RESTAPI Badge" />
   <img src="https://img.shields.io/badge/Confluence-%23404d59?style=for-the-badge&logo=confluence&logoColor=blue" alt="Confluence Badge" />
   <img src="https://img.shields.io/badge/Jest-%23404d59?style=for-the-badge&logo=jest&logoColor=red" alt="Jest Badge" />
+  <img src="https://img.shields.io/badge/REST API-%23404d59?style=for-the-badge&logo=restapi&logoColor=lightblue" alt="RESTAPI Badge" />
   <img src="https://img.shields.io/badge/Supertest-%23404d59?style=for-the-badge&logo=supertest&logoColor=blue" alt="SupertestBadge" />
 
 </div>
