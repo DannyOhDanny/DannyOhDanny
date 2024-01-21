@@ -23,13 +23,13 @@ I'm a junior level frontend developer with the following stack:
 
 - 👩‍🎓 1+ year of experience in frontend development.
 
-- 🗂️ Already have six full-scope projects on HTML5, CSS3, JS, ReactJS, TS & Angular, ExpressJS in stock.
+- 🗂️ Full-scope projects on HTML5, CSS3, JS, ReactJS, TS & Angular, ExpressJS in stock.
 
-- 🔭 My web development tools' stack is: Git, GitHub, NodeJS, npm, pm2, Chrome DevTools, webpack, object-oriented programming, BEM, responsive web design, REST API, Figma, Pixel Perfect, unit testing (jest, supertest);
+- 🔭 Devtools' stack: Git, GitHub, NodeJS, npm, pm2, Chrome DevTools, webpack, object-oriented programming, BEM, responsive web design, REST API, Figma, Pixel Perfect, unit testing (jest, supertest);
 
-- 💼 My soft skills are: teamwork experience in SCRUM/Agile-based projects in B2B, working on technical documentation, technical copywriting (English only), languages: Russian - native, English - fluent speaking and writing skills, .
+- 💼 Soft skills: teamwork experience in SCRUM/Agile-based projects in B2B, working on technical documentation, technical copywriting (English only), languages: Russian - native, English - fluent speaking and writing skills, .
 
-- 📖 I am currently studying TypeScript, SCSS/SASS, and unit testing to rewrite my current project in named language and technologies.
+- 📖 Currently studying TypeScript, Redux and unit testing .
 
 ### :briefcase: Frontend Tool Stack :
 ---
