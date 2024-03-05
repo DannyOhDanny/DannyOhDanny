@@ -4,6 +4,7 @@
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/>
 </div>
 <div align="left" id="badges" >
+	<h3>Contact me :</h3>
   <div>
 		<a href="https://www.linkedin.com/in/dariamatveeva/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
