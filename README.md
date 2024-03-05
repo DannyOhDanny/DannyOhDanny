@@ -17,21 +17,21 @@
   </div>
 </div>
 
-### :woman_technologist: About Me :
+### About Me :
 ---
 I'm a junior level frontend developer with the following stack:
 
-👩‍🎓  1+ year of experience in frontend development.
+-  2+ year of experience in frontend development.
 
-🗂️  Full-scope projects on `HTML5`, `CSS3`, `JS`, `ReactJS`, `TS` & `Angular`, `ExpressJS` in stock.
+- Full-scope projects on `HTML5`, `CSS3`, `JS`, `ReactJS`, `TS` & `Angular`, `ExpressJS` in stock.
 
-🔭  Devtools' stack: `Git`, `GitHub`, `NodeJS`, `npm`, `pm2`, `Chrome DevTools`, `webpack`, object-oriented programming, `BEM`, responsive web design, `REST API`, `Figma`, `Pixel Perfect`, unit testing (`jest`, `supertest`);
+- Devtools' stack: `Git`, `GitHub`, `NodeJS`, `npm`, `pm2`, `Chrome DevTools`, `webpack`, object-oriented programming, `BEM`, responsive web design, `REST API`, `Figma`, `Pixel Perfect`, unit testing (`jest`, `supertest`);
 
-💼  Soft skills: teamwork experience, Confluence, languages: Russian - native, English - fluent speaking and writing skills, technical documentation .
+-  Soft skills: teamwork experience, Confluence, languages: Russian - native, English - fluent speaking and writing skills, technical documentation .
 
-📖  Currently studying `TypeScript`, `Redux` and `unit testing` .
+- Currently studying `TypeScript`, `Redux` and `unit testing` .
 
-### :briefcase: Frontend Tool Stack :
+### Frontend Tool Stack :
 ---
 <div> 
   <img src="https://img.shields.io/badge/javascript-%23404d59.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge" />
@@ -43,7 +43,7 @@ I'm a junior level frontend developer with the following stack:
   <img src="https://img.shields.io/badge/SASS-%23404d59.svg?style=for-the-badge&logo=SASS&logoColor=hotpink" alt="SASS Badge" />
 </div>
 
-### :briefcase: Backend Tool Stack :
+### Backend Tool Stack :
 ---
 <div id="backend" style="display: inline">
   <img src="https://img.shields.io/badge/node.js-%23404d59?style=for-the-badge&logo=node.js&logoColor=green" alt="NodeJS Badge" />
@@ -52,7 +52,7 @@ I'm a junior level frontend developer with the following stack:
   <img src="https://img.shields.io/badge/nginx-%23404d59.svg?style=for-the-badge&logo=nginx&logoColor=green" alt="Nginx Badge" />		
 </div>
 
-### :briefcase: General Tool Stack :
+### General Tool Stack :
 ---
 <div id="general" style="display: inline">
   <img src="https://img.shields.io/badge/git-%23404d59.svg?style=for-the-badge&logo=git&logoColor=red" alt="Git Badge" />
@@ -69,7 +69,7 @@ I'm a junior level frontend developer with the following stack:
 
 </div>
 
-### :bar_chart:	 My Stats :
+### My Stats :
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DannyOhDanny&theme=dark&background=000000)](https://git.io/streak-stats)
 
