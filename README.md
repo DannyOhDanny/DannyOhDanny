@@ -1,5 +1,5 @@
 
-<div id="header display="flex">
+<div id="header" display="inline-block" >
 	<div>
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/>
 </div>
