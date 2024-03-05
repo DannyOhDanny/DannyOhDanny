@@ -1,20 +1,28 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200">
-</div> 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dariamatveeva/">
+<div id="header display="flex">
+	<div>
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/>
+</div>
+<div align="left" id="badges" >
+  <div>
+		<a href="https://www.linkedin.com/in/dariamatveeva/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/DannyohDanny">
+	</div>
+  <div>
+		<a href="https://t.me/DannyohDanny">
     <img src="https://img.shields.io/badge/Telegram-red?style=social&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.instagram.com/inspiration_zone">
+	</div>
+  <div> 
+		<a href="https://www.instagram.com/inspiration_zone">
     <img src="https://img.shields.io/badge/Instagram-red?style=social&logo=instagram&logoColor=pink" alt="Instagram Badge"/>
    </a>
-  <div>
-<img src="https://komarev.com/ghpvc/?username=DannyOhDanny&style=flat-square&color=blue" alt=""/>
-  </div>
+	</div>
+	<div>
+	 <img  src="https://komarev.com/ghpvc/?username=DannyOhDanny&style=flat-square&color=blue" alt=""/>
+	</div>
+	
 </div>
 
 ### About Me :
