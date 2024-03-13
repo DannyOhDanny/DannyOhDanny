@@ -20,6 +20,9 @@
     <img src="https://img.shields.io/badge/Instagram-red?style=social&logo=instagram&logoColor=pink" alt="Instagram Badge"/>
    </a>
 	</div>
+   <div>
+		<img src='https://www.codewars.com/users/DannyOhDanny/badges/micro' alt='' >
+   </div>
 	<div>
 	 <img  src="https://komarev.com/ghpvc/?username=DannyOhDanny&style=flat-square&color=blue" alt=""/>
 	</div>
