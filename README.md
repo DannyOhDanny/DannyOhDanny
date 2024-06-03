@@ -48,6 +48,7 @@ I'm a junior level frontend developer with the following stack:
 <div> 
   <img src="https://img.shields.io/badge/javascript-%23404d59.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge" />
   <img src="https://img.shields.io/badge/TypeScript-%23404d59.svg?style=for-the-badge&logo=typescript&logoColor=blue" alt="TypeScript Badge" />
+  <img src="https://img.shields.io/badge/Next-%23404d59.svg?style=for-the-badge&logo=next&logoColor=blue" atl="Next Badge"/>
   <img src="https://img.shields.io/badge/react-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge" />
   <img src="https://img.shields.io/badge/Angular-%23404d59.svg?style=for-the-badge&logo=angular&logoColor=red" alt="Angular Badge" />
   <img src="https://img.shields.io/badge/html5-%23404d59.svg?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML5 Badge" />
