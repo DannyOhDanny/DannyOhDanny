@@ -35,13 +35,15 @@ I'm a junior level frontend developer with the following stack:
 
 -  2+ year of experience in frontend development.
 
-- Full-scope projects on `HTML5`, `CSS3`, `JS`, `ReactJS`, `TS` & `Angular`, `ExpressJS` in stock.
-
+- Full-scope projects on `HTML5`, `CSS3`, `JS`, `ReactJS`, `NextJS` `TypeScript`,`ExpressJS`, `Redux Toolkit`, `axios`, `TanStack Query` in stock.
+  
+- Styles: `scss|sass`, `scss/css modules`, `styled components`, `bootstrap`, `ui-libraries`, `slick carousel`, `framer motion`.
+  
 - Devtools' stack: `Git`, `GitHub`, `NodeJS`, `npm`, `pm2`, `Chrome DevTools`, `webpack`, object-oriented programming, `BEM`, responsive web design, `REST API`, `Figma`, `Pixel Perfect`, unit testing (`jest`, `supertest`);
 
--  Soft skills: teamwork experience, Confluence, languages: Russian - native, English - fluent speaking and writing skills, technical documentation .
+- Soft skills: teamwork experience, Confluence, languages: Russian - native, English - fluent speaking and writing skills, technical documentation .
 
-- Currently studying `TypeScript`, `Redux` and `unit testing` .
+- Currently studying algorythms and `unit testing` .
 
 ### Frontend Tool Stack :
 ---
