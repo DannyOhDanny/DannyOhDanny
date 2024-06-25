@@ -24,8 +24,6 @@
    <img src="https://www.codewars.com/users/DannyOhDanny/badges/small" alt="" />
  </a>
 
-### Обо мне :
-
 #### Навыки
 <div>
   <img src="https://img.shields.io/badge/javascript-%23404d59.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge" />
