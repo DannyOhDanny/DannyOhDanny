@@ -1,18 +1,31 @@
+<div id="header" display="block" font-family="Roboto, sans-serif">
+<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400"/>
+</div>
 
-## Связаться
+Привет, меня зовут Дарья,
+
+👩‍💻 Я фронтенд разработчик с 2-летним стажем работы в frontend-разработке.
+
+🚀 Разрабатываю красивые и функциональные пользовательские интерфейсы на `NextJS`,`React`,`JavaScript`,`TypeScript`,`HTML`,`CSS`;
+ 
+🗃️ Посетите мой [Репозиторий](https://github.com/DannyOhDanny?tab=repositorie) для просмотра проектов и кода.
+
+Буду рада вашим отзывам и предложениям!
+
+### Связаться со мной:
 ---
 	
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariamatveeva)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DannyohDanny)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.matveeva09@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inspiration_zone)	
-![](https://komarev.com/ghpvc/?username=your-github-DannyohDanny&base=2456&style=for-the-badge)</div>
-
+![](https://komarev.com/ghpvc/?username=your-github-DannyohDanny&base=2456&style=for-the-badge)
  <a href="https://www.codewars.com/users/DannyOhDanny">
-	<img src="https://www.codewars.com/users/DannyOhDanny/badges/small" alt="" />
+   <img src="https://www.codewars.com/users/DannyOhDanny/badges/small" alt="" />
  </a>
 
 ### Обо мне :
+
 #### Навыки
 <div>
   <img src="https://img.shields.io/badge/javascript-%23404d59.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge" />
@@ -113,9 +126,9 @@
 
 ### Статистика :
 ---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DannyOhDanny&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyOhDanny&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DannyOhDanny&theme=dark&background=000000)](https://git.io/streak-stats) 
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=DannyOhDanny&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyOhDanny&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DannyOhDanny/DannyOhDanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
