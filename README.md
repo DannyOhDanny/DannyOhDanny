@@ -2,10 +2,10 @@
 ## Contact me
 ---
 	
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([ссылка_на_ваш_профиль_LinkedIn](https://www.linkedin.com/in/dariamatveeva))
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([ссылка_на_ваш_аккаунт_Telegram](https://t.me/DannyohDanny))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariamatveeva)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DannyohDanny)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.matveeva09@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([ссылка_на_ваш_профиль_Instagram](https://www.instagram.com/inspiration_zone))	
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inspiration_zone)	
 ![](https://komarev.com/ghpvc/?username=your-github-DannyohDanny&base=2456&style=for-the-badge)</div>
 
  <a href="https://www.codewars.com/users/DannyOhDanny">
