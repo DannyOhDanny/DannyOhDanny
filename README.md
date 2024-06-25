@@ -1,33 +1,17 @@
 
-<div id="header" display="block" >
-	<div>
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/>
-</div>
-<div align="left" id="badges" >
-	<h3>Contact me :</h3>
-  <div>
-		<a href="https://www.linkedin.com/in/dariamatveeva/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
-  </a>
-	</div>
-  <div>
-		<a href="https://t.me/DannyohDanny">
-    <img src="https://img.shields.io/badge/Telegram-red?style=social&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
-  </a>
-	</div>
-  <div> 
-		<a href="https://www.instagram.com/inspiration_zone">
-    <img src="https://img.shields.io/badge/Instagram-red?style=social&logo=instagram&logoColor=pink" alt="Instagram Badge"/>
-   </a>
-	</div>
-   <div>
-		<img src='https://www.codewars.com/users/DannyOhDanny/badges/micro' alt='' >
-   </div>
-	<div>
-	 <img  src="https://komarev.com/ghpvc/?username=DannyOhDanny&style=flat-square&color=blue" alt=""/>
-	</div>
+## Contact me
+---
 	
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([ссылка_на_ваш_профиль_LinkedIn](https://www.linkedin.com/in/dariamatveeva))
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([ссылка_на_ваш_аккаунт_Telegram](https://t.me/DannyohDanny))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.matveeva09@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([ссылка_на_ваш_профиль_Instagram](https://www.instagram.com/inspiration_zone))	
+![](https://komarev.com/ghpvc/?username=your-github-DannyohDanny&base=2456&style=for-the-badge)</div>
+
+ <a href="https://www.codewars.com/users/DannyOhDanny">
+	<img src="https://www.codewars.com/users/DannyOhDanny/badges/small" alt="" />
+ </a>
+
 
 ### About Me :
 ---
@@ -88,7 +72,8 @@ I'm a junior level frontend developer with the following stack:
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DannyOhDanny&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyOhDanny&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=DannyOhDanny&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyOhDanny&layout=compact)
+
+
 <!--
 **DannyOhDanny/DannyOhDanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
