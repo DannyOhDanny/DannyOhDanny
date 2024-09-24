@@ -61,6 +61,7 @@
 - различные UI-библиотеки
 - slick carousel
 - framer motion
+- Plotly.js
 
 #### DevTools & Backend
 
