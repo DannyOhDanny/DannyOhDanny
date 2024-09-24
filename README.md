@@ -50,6 +50,8 @@
 <div id="styles" style="display: inline">
   <img src="https://img.shields.io/badge/css3-%23404d59.svg?style=for-the-badge&logo=css3&logoColor=lightblue" alt="CSS3 Badge" />
   <img src="https://img.shields.io/badge/SASS-%23404d59.svg?style=for-the-badge&logo=SASS&logoColor=hotpink" alt="SASS Badge" />
+	  <img src="https://img.shields.io/badge/Plotly-%23404d59.svg?style=for-the-badge&logo=Plotly&logoColor=black" alt="Plotly Badge" />
+
 </div>
 
 - scss/sass
