@@ -37,7 +37,7 @@
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript|Vanilla JS
 - ReactJS
 - NextJS
 - TypeScript
