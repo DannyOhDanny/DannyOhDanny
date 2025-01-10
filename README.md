@@ -58,10 +58,11 @@
 - css modules
 - styled components
 - bootstrap
-- различные UI-библиотеки
+- различные UI-библиотеки:
 - slick carousel
 - framer motion
 - Plotly.js
+- choices.js, virtual select.js, flatpickr.js
 
 #### DevTools & Backend
 
