@@ -63,6 +63,7 @@
 - framer motion
 - Plotly.js
 - choices.js, virtual select.js, flatpickr.js
+- tabulator.js
 
 #### DevTools & Backend
 
