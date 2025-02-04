@@ -129,8 +129,7 @@
 
 ### Статистика :
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DannyOhDanny&theme=dark&background=000000)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DannyOhDanny&theme=dark&background=000000)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DannyOhDanny&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=DannyOhDanny&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyOhDanny&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
