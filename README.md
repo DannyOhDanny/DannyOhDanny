@@ -61,9 +61,10 @@
 - различные UI-библиотеки:
 - slick carousel
 - framer motion
-- Plotly.js
+- plotly.js
 - choices.js, virtual select.js, flatpickr.js
 - tabulator.js
+- chart.js
 
 #### DevTools & Backend
 
@@ -113,6 +114,7 @@
 - Figma
 - Pixel Perfect реализация
 - ООП
+- gitFlow
 
 #### Soft Skills
 <div>
