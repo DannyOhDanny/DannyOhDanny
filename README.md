@@ -38,13 +38,15 @@
 - HTML5
 - CSS3
 - JavaScript | Vanilla JS
-- ReactJS
+- ReactJS v16-v19, React Router, useForm
 - NextJS
 - TypeScript
 - ExpressJS
 - Redux Toolkit
 - axios
 - TanStack Query
+- Zustand
+- Vite
 
 #### Стилизация
 <div id="styles" style="display: inline">
@@ -56,6 +58,7 @@
 
 - scss/sass
 - css modules
+- CSS in JS
 - styled components
 - bootstrap
 - различные UI-библиотеки:
@@ -65,6 +68,8 @@
 - choices.js, virtual select.js, flatpickr.js
 - tabulator.js
 - chart.js
+- ant Design
+
 
 #### DevTools & Backend
 
@@ -96,6 +101,7 @@
 - VSCode
 - WebStorm
 - GitHub
+- Docker
 
 
 #### Best Practices
@@ -110,7 +116,7 @@
 - BEM
 - адаптивный веб-дизайн
 - интеграция REST API
-- юнит-тестирование с использованием инструментов, таких как jest и supertest
+- юнит-тестирование с использованием инструментов, таких как jest, supertest, Vitest
 - Figma
 - Pixel Perfect реализация
 - ООП
